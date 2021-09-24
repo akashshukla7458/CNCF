@@ -1,7 +1,7 @@
 
 
 -   [Home](#)
--   [About](about.html)
+-   [About](https://akashshukla7458.github.io/CNCF/about.html)
 -   [Link to website](https://akashshukla7458.github.io/CNCF/)
 
 
