@@ -1,13 +1,11 @@
-[Navbar](#)
+
 
 -   [Home](#)
 -   [About](about.html)
+-   [Link to website](https://akashshukla7458.github.io/CNCF/)
 
-Search
 
-![Bootstrap Themes](pics/cncf.jpg)
-
-Cloud Native Computing Foundation {.display-5 .fw-bold .lh-1 .mb-3}
+Cloud Native Computing Foundation 
 =================================
 
 The Cloud Native Computing Foundation (CNCF) is a Linux Foundation
@@ -27,6 +25,10 @@ maturity. A graduated project reflects overall maturity; these projects
 have reached a tipping point in terms of diversity of contribution,
 community scale/growth, and adoption.
 
+
+-------------
+![alt text](cncf.jpg)
+
 ##### Graduated projects
 
 Containerd Containerd is an industry-standard core container runtime. It
@@ -40,26 +42,36 @@ the project to CNCF was announced by Docker in 2017.
 **CoreDNS**\
  CoreDNS is a DNS server that chains plugins. Its graduation was
 announced in 2019. \
+<br>
  **Envoy**\
+ <br>
  Originally built at Lyft to move their architecture away from a
 monolith, Envoy is a high-performance open source edge and service proxy
 that makes the network transparent to applications. Lyft contributed
 Envoy to Cloud Native Computing Foundation in September 2017. \
+<br>
  **etcd** \
+ <br>
  etcd is a distributed key value store, providing a method of storing
 data across a cluster of machines.It became a CNCF incubating project in
 2018 at KubeCon+CloudNativeCon North America in Seattle that year. In
 November, 2020, the project became a graduated project. \
+<br>
  **Fluentd**\
+ <br>
  Fluentd is an open source data collector, allowing the user to "unify
 the data collection and consumption for a better use and understanding
 of data." Fluentd joined CNCF in 2016 and became a graduated project in
 2019. \
+2020. <br>
  **Helm** \
+ <br>
  Helm is a package manager that helps developers "easily manage and
 deploy applications onto the Kubernetes cluster." It joined the
 incubating level in June 2018 and graduated in April 2020. \
+<br>
  **Jaeger** \
+ <br>
  Created by Uber Engineering, Jaeger is an open source distributed
 tracing system inspired by Google Dapper paper and OpenZipkin community.
 It can be used for tracing microservice-based architectures, including
@@ -70,7 +82,9 @@ Technical Oversight Committee voted to accept Jaeger as the 12th hosted
 project in September 2017 and became a graduated project in 2019. In
 2020 it became an approved and fully integrated part of the CNCF
 ecosystem. \
+<br>
  **Kubernetes** \
+ <br>
  Kubernetes is an open source framework for automating deployment and
 managing applications in a containerized and clustered environment. "It
 aims to provide better ways of managing related, distributed components
@@ -82,7 +96,7 @@ more robust than other, older technologies of the same ilk. In January
 2020, the CNCF annual report showed significant growth in interest,
 training, event attendance and investment related to Kubernetes.
 
-Definition of CNCF {.blog-post-title}
+Definition of CNCF 
 ------------------
 
 Cloud native technologies empower organizations to build and run
@@ -97,7 +111,7 @@ adoption of this paradigm by fostering and sustaining an ecosystem of
 open source, vendor-neutral projects. We democratize state-of-the-art
 patterns to make these innovations accessible for everyone.
 
-![](/pics/falco.png) ![](/pics/cortex.png) ![](/pics/devsopace.png)
+![](falco.png) ![](cortex.png) ![](devsopace.png)
 
 CNCF Initiatives
 ----------------
